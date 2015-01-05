@@ -1,11 +1,11 @@
 " description
 " " TITLE "
 "
-" File Name         : beargeek.vim
+" File Name         : bearline.vim
 " Created By        : Thomas Aurel
 " Creation Date     : January  2th, 2015
 " Version           : 0.1
-" Last Change       : January  2th, 2015 at 23:12:52
+" Last Change       : January  5th, 2015 at 11:00:46
 " Last Changed By   : Thomas Aurel
 "
 
