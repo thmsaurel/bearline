@@ -1,8 +1,6 @@
 " Beargeek statusline
 " " TITLE "
 "
-:x
-
 " Created By        : Thomas Aurel
 " Creation Date     : January  2th, 2015
 " Version           : 0.1
