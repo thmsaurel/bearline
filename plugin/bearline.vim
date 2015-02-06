@@ -4,9 +4,13 @@
 " Created By        : Thomas Aurel
 " Creation Date     : January  2th, 2015
 " Version           : 0.1
-" Last Change       : January  5th, 2015 at 11:01:01
+" Last Change       : February  5th, 2015 at 12:52:11
 " Last Changed By   : Thomas Aurel
 "
+if !exists("g:beargeek_statusline")
+    let g:beargeek_statusline = 0
+endif
+
 if !g:beargeek_statusline
     finish
 endif
